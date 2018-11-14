@@ -13,6 +13,7 @@ import os
 import numpy as np
 
 # Data dir
+#
 data_dir = r"C:\IntroCSC" # 
 fp = os.path.join(data_dir,'L5_data','Helsinki_masked_p188r018_7t20020529_z34__LV-FIN.tif')
 
